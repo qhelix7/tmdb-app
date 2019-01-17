@@ -1,11 +1,17 @@
 To run the Kotlin server, open a terminal and navigate to the `webserver` directory.
 Then run the following:
+
+```
     ./gradlew run
+```
 
 To run the Vue frontend, open another terminal and navigate to the `webapp` directory.
 Then run the following:
+
+```
     npm install
     npm run serve
+```
 
 
 The above commands run the code locally in development mode rather than 
